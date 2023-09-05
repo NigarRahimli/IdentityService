@@ -1,0 +1,15 @@
+C:\ComparProject\IdentityService\IdentityService.Entities\bin\Debug\net7.0\IdentityService.Entities.deps.json
+C:\ComparProject\IdentityService\IdentityService.Entities\bin\Debug\net7.0\IdentityService.Entities.dll
+C:\ComparProject\IdentityService\IdentityService.Entities\bin\Debug\net7.0\IdentityService.Entities.pdb
+C:\ComparProject\IdentityService\IdentityService.Entities\bin\Debug\net7.0\IdentityService.Core.dll
+C:\ComparProject\IdentityService\IdentityService.Entities\bin\Debug\net7.0\IdentityService.Core.pdb
+C:\ComparProject\IdentityService\IdentityService.Entities\obj\Debug\net7.0\IdentityService.Entities.csproj.AssemblyReference.cache
+C:\ComparProject\IdentityService\IdentityService.Entities\obj\Debug\net7.0\IdentityService.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\ComparProject\IdentityService\IdentityService.Entities\obj\Debug\net7.0\IdentityService.Entities.AssemblyInfoInputs.cache
+C:\ComparProject\IdentityService\IdentityService.Entities\obj\Debug\net7.0\IdentityService.Entities.AssemblyInfo.cs
+C:\ComparProject\IdentityService\IdentityService.Entities\obj\Debug\net7.0\IdentityService.Entities.csproj.CoreCompileInputs.cache
+C:\ComparProject\IdentityService\IdentityService.Entities\obj\Debug\net7.0\IdentityService.Entities.csproj.CopyComplete
+C:\ComparProject\IdentityService\IdentityService.Entities\obj\Debug\net7.0\IdentityService.Entities.dll
+C:\ComparProject\IdentityService\IdentityService.Entities\obj\Debug\net7.0\refint\IdentityService.Entities.dll
+C:\ComparProject\IdentityService\IdentityService.Entities\obj\Debug\net7.0\IdentityService.Entities.pdb
+C:\ComparProject\IdentityService\IdentityService.Entities\obj\Debug\net7.0\ref\IdentityService.Entities.dll
