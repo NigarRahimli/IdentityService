@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "lwlCvEs95ZP4V7eiqiB95ktsdAjvOdv/GwSsA/Xb7ZPyOofskZgzE3PVkMQjM02jHWPOLg486e7zT9biD9m/VQ==",
+  "dgSpecHash": "tGfAK0EB2bjJlwRiHXEv8N5BbaXiY+o3zCLFPyKBoSeOsgSvqCp0eHv3X+Qw74eI2eKOCZUG0lFRIPRIbSkN5g==",
   "success": true,
   "projectFilePath": "C:\\ComparProject\\IdentityService\\IdentityService.Business\\IdentityService.Business.csproj",
   "expectedPackageFiles": [
@@ -9,6 +9,7 @@
     "C:\\Users\\User\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\masstransit\\8.1.0\\masstransit.8.1.0.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\masstransit.abstractions\\8.1.0\\masstransit.abstractions.8.1.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\masstransit.rabbitmq\\8.1.0\\masstransit.rabbitmq.8.1.0.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\microsoft.data.sqlclient\\5.0.2\\microsoft.data.sqlclient.5.0.2.nupkg.sha512",

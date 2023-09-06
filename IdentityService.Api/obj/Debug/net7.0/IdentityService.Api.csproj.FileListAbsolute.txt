@@ -82,3 +82,13 @@ C:\ComparProject\IdentityService\IdentityService.Api\bin\Debug\net7.0\IdentitySe
 C:\ComparProject\IdentityService\IdentityService.Api\bin\Debug\net7.0\IdentityService.DataAccess.pdb
 C:\ComparProject\IdentityService\IdentityService.Api\bin\Debug\net7.0\IdentityService.Core.pdb
 C:\ComparProject\IdentityService\IdentityService.Api\bin\Debug\net7.0\IdentityService.Entities.pdb
+C:\ComparProject\IdentityService\IdentityService.Api\bin\Debug\net7.0\AutoMapper.dll
+C:\ComparProject\IdentityService\IdentityService.Api\bin\Debug\net7.0\MassTransit.dll
+C:\ComparProject\IdentityService\IdentityService.Api\bin\Debug\net7.0\MassTransit.Abstractions.dll
+C:\ComparProject\IdentityService\IdentityService.Api\bin\Debug\net7.0\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+C:\ComparProject\IdentityService\IdentityService.Api\bin\Debug\net7.0\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+C:\ComparProject\IdentityService\IdentityService.Api\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\ComparProject\IdentityService\IdentityService.Api\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\ComparProject\IdentityService\IdentityService.Api\bin\Debug\net7.0\IdentityService.Business.dll
+C:\ComparProject\IdentityService\IdentityService.Api\bin\Debug\net7.0\IdentityService.Business.pdb
+C:\ComparProject\IdentityService\IdentityService.Api\bin\Debug\net7.0\MassTransit.RabbitMqTransport.dll

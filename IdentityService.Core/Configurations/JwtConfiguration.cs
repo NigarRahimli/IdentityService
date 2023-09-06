@@ -13,7 +13,7 @@ namespace IdentityService.Core.Configurations
         public JwtConfiguration()
         {
             ConfigurationManager configurationManager = new();
-            configurationManager.SetBasePath(Path.Combine(Directory.GetCurrentDirectory(), "../K123ShopApp.WebApi"));
+            configurationManager.SetBasePath(Path.Combine(Directory.GetCurrentDirectory(), "../IdentityService.Api"));
             configurationManager.AddJsonFile("appsettings.json");
             SecretKey = configurationManager.GetSection("JwtConfiguration:SecretKey").Value;
             Issuer = configurationManager.GetSection("JwtConfiguration:Issuer").Value;

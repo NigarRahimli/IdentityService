@@ -21,7 +21,7 @@ namespace IdentityService.Core.Configurations
             get
             {
                 ConfigurationManager configurationManager = new();
-                configurationManager.SetBasePath(Path.Combine(Directory.GetCurrentDirectory(), "../K123ShopApp.WebApi"));
+                configurationManager.SetBasePath(Path.Combine(Directory.GetCurrentDirectory(), "../IdentityService.Api"));
                 configurationManager.AddJsonFile("appsettings.json");
                 return configurationManager.GetConnectionString("NpgsqlConnection");
             }

@@ -101,6 +101,23 @@
           }
         }
       },
+      "MassTransit.RabbitMQ/8.1.0": {
+        "type": "package",
+        "dependencies": {
+          "MassTransit": "8.1.0",
+          "RabbitMQ.Client": "6.5.0"
+        },
+        "compile": {
+          "lib/net7.0/MassTransit.RabbitMqTransport.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net7.0/MassTransit.RabbitMqTransport.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "Microsoft.Bcl.AsyncInterfaces/1.1.1": {
         "type": "package",
         "compile": {
@@ -1475,6 +1492,29 @@
         "lib/netstandard2.1/MassTransit.Abstractions.xml",
         "masstransit.abstractions.8.1.0.nupkg.sha512",
         "masstransit.abstractions.nuspec",
+        "mt-logo-small.png"
+      ]
+    },
+    "MassTransit.RabbitMQ/8.1.0": {
+      "sha512": "kjKsN0f+TjmxIDlfxkyvhNcE9oXhBRZwmZ8gWcR1WRR4fNlSYM1331bGVquBTkKNynWUh9Le2wF5XctPHCcjvg==",
+      "type": "package",
+      "path": "masstransit.rabbitmq/8.1.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "NuGet.README.md",
+        "lib/net462/MassTransit.RabbitMqTransport.dll",
+        "lib/net462/MassTransit.RabbitMqTransport.xml",
+        "lib/net6.0/MassTransit.RabbitMqTransport.dll",
+        "lib/net6.0/MassTransit.RabbitMqTransport.xml",
+        "lib/net7.0/MassTransit.RabbitMqTransport.dll",
+        "lib/net7.0/MassTransit.RabbitMqTransport.xml",
+        "lib/netstandard2.0/MassTransit.RabbitMqTransport.dll",
+        "lib/netstandard2.0/MassTransit.RabbitMqTransport.xml",
+        "lib/netstandard2.1/MassTransit.RabbitMqTransport.dll",
+        "lib/netstandard2.1/MassTransit.RabbitMqTransport.xml",
+        "masstransit.rabbitmq.8.1.0.nupkg.sha512",
+        "masstransit.rabbitmq.nuspec",
         "mt-logo-small.png"
       ]
     },
@@ -4057,7 +4097,8 @@
       "IdentityService.Core >= 1.0.0",
       "IdentityService.DataAccess >= 1.0.0",
       "IdentityService.Entities >= 1.0.0",
-      "MassTransit >= 8.1.0"
+      "MassTransit >= 8.1.0",
+      "MassTransit.RabbitMQ >= 8.1.0"
     ]
   },
   "packageFolders": {
@@ -4114,6 +4155,10 @@
             "version": "[12.0.1, )"
           },
           "MassTransit": {
+            "target": "Package",
+            "version": "[8.1.0, )"
+          },
+          "MassTransit.RabbitMQ": {
             "target": "Package",
             "version": "[8.1.0, )"
           }

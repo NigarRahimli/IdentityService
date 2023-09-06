@@ -12,7 +12,8 @@
           "IdentityService.Core": "1.0.0",
           "IdentityService.DataAccess": "1.0.0",
           "IdentityService.Entities": "1.0.0",
-          "MassTransit": "8.1.0"
+          "MassTransit": "8.1.0",
+          "MassTransit.RabbitMQ": "8.1.0"
         },
         "runtime": {
           "IdentityService.Business.dll": {}
@@ -87,6 +88,18 @@
       "MassTransit.Abstractions/8.1.0": {
         "runtime": {
           "lib/net7.0/MassTransit.Abstractions.dll": {
+            "assemblyVersion": "8.1.0.0",
+            "fileVersion": "8.1.0.0"
+          }
+        }
+      },
+      "MassTransit.RabbitMQ/8.1.0": {
+        "dependencies": {
+          "MassTransit": "8.1.0",
+          "RabbitMQ.Client": "6.5.0"
+        },
+        "runtime": {
+          "lib/net7.0/MassTransit.RabbitMqTransport.dll": {
             "assemblyVersion": "8.1.0.0",
             "fileVersion": "8.1.0.0"
           }
@@ -854,6 +867,13 @@
       "sha512": "sha512-sOj80wU5B0MFtlY6cdobQqqzllLGs3diAVK0fSRvfgm1q49LkxZ23JqDyfb2AthVBLyzYsi78I/iKK3O3GRLQA==",
       "path": "masstransit.abstractions/8.1.0",
       "hashPath": "masstransit.abstractions.8.1.0.nupkg.sha512"
+    },
+    "MassTransit.RabbitMQ/8.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-kjKsN0f+TjmxIDlfxkyvhNcE9oXhBRZwmZ8gWcR1WRR4fNlSYM1331bGVquBTkKNynWUh9Le2wF5XctPHCcjvg==",
+      "path": "masstransit.rabbitmq/8.1.0",
+      "hashPath": "masstransit.rabbitmq.8.1.0.nupkg.sha512"
     },
     "Microsoft.Bcl.AsyncInterfaces/1.1.1": {
       "type": "package",

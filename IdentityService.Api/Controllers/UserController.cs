@@ -24,6 +24,7 @@ namespace IdentityService.Api.Controllers
         [HttpPost("Register")]
         public async Task<IActionResult> UserRegister([FromBody] UserRegisterDTO userRegister)
         {
+            
             var result = await _userService.Register(userRegister);
             return Ok(result);
         }

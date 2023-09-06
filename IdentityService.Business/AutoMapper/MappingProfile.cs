@@ -1,6 +1,7 @@
 ﻿using AutoMapper;
 using IdentityService.Core.Entities.Concrete;
 using IdentityService.Entities.DTOs.UserDTOs;
+using IdentityService.Entities.Entities;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -14,7 +15,10 @@ namespace IdentityService.Business.AutoMapper
     {
         public MappingProfile()
         {
-            CreateMap<UserRegisterDTO, User>();
+            CreateMap<UserRegisterDTO, AppUser>().ReverseMap();
+     
+       
+
 
         }
     }

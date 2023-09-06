@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "P2pCqeJp8pTI2pp8ZywXrcgCPBCR2yhRIVXneT+bRynGXAogxNfVDx4rpz/EE2RV0WdfqbLPTaCZ7EeTqXBQJg==",
+  "dgSpecHash": "3uYGCgv63WrYrayK/yJmjVyttN2v+PKzCcWSV6LWffd972AayIUR2Oi7xrXlB75qB7aks91qzxOc64GtF1Mgkg==",
   "success": true,
   "projectFilePath": "C:\\ComparProject\\IdentityService\\IdentityService.Api\\IdentityService.Api.csproj",
   "expectedPackageFiles": [
@@ -10,6 +10,7 @@
     "C:\\Users\\User\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\masstransit\\8.1.0\\masstransit.8.1.0.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\masstransit.abstractions\\8.1.0\\masstransit.abstractions.8.1.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\masstransit.rabbitmq\\8.1.0\\masstransit.rabbitmq.8.1.0.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\7.0.10\\microsoft.aspnetcore.authentication.jwtbearer.7.0.10.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.10\\microsoft.aspnetcore.openapi.7.0.10.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
