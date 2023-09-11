@@ -17,7 +17,7 @@ namespace IdentityService.DataAccess.Concrete.EntityFramework
     {
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlServer(Configuration.ConnectionString);
+            optionsBuilder.UseSqlServer("Data Source=SQL5111.site4now.net;Initial Catalog=db_a9ea96_identity;User Id=db_a9ea96_identity_admin;Password=id4516ru");
         }
 
 
