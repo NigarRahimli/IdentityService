@@ -49,7 +49,7 @@ namespace IdentityService.Business.DependencyResolver
 
                 config.UsingRabbitMq((ctx, cfg) =>
                 {
-                    cfg.Host("amqp://guest:guest@localhost");
+                    cfg.Host("amqps://ultqcncz:6SXk01KqKsY7HYR8kX421TGzCyNgXeGh@toad.rmq.cloudamqp.com/ultqcncz");
                     cfg.Message<SendEmailCommand>(x => x.SetEntityName("SendEmailCommand"));
 
                     cfg.ReceiveEndpoint("send-email-command", c =>

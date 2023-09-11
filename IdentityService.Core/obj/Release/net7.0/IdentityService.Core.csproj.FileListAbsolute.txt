@@ -1,0 +1,12 @@
+C:\ComparProject\IdentityService\IdentityService.Core\bin\Release\net7.0\IdentityService.Core.deps.json
+C:\ComparProject\IdentityService\IdentityService.Core\bin\Release\net7.0\IdentityService.Core.dll
+C:\ComparProject\IdentityService\IdentityService.Core\bin\Release\net7.0\IdentityService.Core.pdb
+C:\ComparProject\IdentityService\IdentityService.Core\obj\Release\net7.0\IdentityService.Core.csproj.AssemblyReference.cache
+C:\ComparProject\IdentityService\IdentityService.Core\obj\Release\net7.0\IdentityService.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\ComparProject\IdentityService\IdentityService.Core\obj\Release\net7.0\IdentityService.Core.AssemblyInfoInputs.cache
+C:\ComparProject\IdentityService\IdentityService.Core\obj\Release\net7.0\IdentityService.Core.AssemblyInfo.cs
+C:\ComparProject\IdentityService\IdentityService.Core\obj\Release\net7.0\IdentityService.Core.csproj.CoreCompileInputs.cache
+C:\ComparProject\IdentityService\IdentityService.Core\obj\Release\net7.0\IdentityService.Core.dll
+C:\ComparProject\IdentityService\IdentityService.Core\obj\Release\net7.0\refint\IdentityService.Core.dll
+C:\ComparProject\IdentityService\IdentityService.Core\obj\Release\net7.0\IdentityService.Core.pdb
+C:\ComparProject\IdentityService\IdentityService.Core\obj\Release\net7.0\ref\IdentityService.Core.dll
